@@ -1,0 +1,227 @@
+
+/* PHONE VERSION */
+@media only screen and
+(min-width: 320px) {
+h1 {font-size: 20px;}
+}
+
+
+h1 {
+    font-size: 90px;
+    font-family: 'Inter', sans-serif;
+}
+
+
+h3 {
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
+
+
+.display-3 {
+    background-color: #B2AC88;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+
+.heading { 
+    padding: 40px;
+    margin-bottom: 2%;
+    font-size: 20px;
+    color: black;
+    background-color: #F9D388;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+
+.book3 { 
+    padding: 40px;
+    margin-bottom: 2%;
+    font-size: 20px;
+    color: white;
+    background-color: #F9D388;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+
+.footer1 {
+    background-color: #B2AC88;
+    color: white;
+    padding: 20px;
+    font-family: 'Inter', sans-serif;
+}
+
+.books { 
+    margin-top: 2%;
+    display: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;   
+    font-family: 'Inter', sans-serif;
+}
+
+
+h4 {
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+
+.cards1 {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+}
+
+
+
+.books2 { 
+    padding: 40px;
+    margin-top: 0%;
+    font-size: 20px;
+    color: white;
+    background-color: #ffaf1b;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+ 
+.button {
+    border: none;
+    background-color: #B2AC88;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.display-1 {
+text-align: center;
+color: white;
+background-color: #FDEDEC;
+font-family: 'Inter', sans-serif;
+}
+
+
+
+
+
+.display-2 {
+    background-color: #EE892F;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.footer1 {
+    background-color:#EE892F;
+    color: white;
+    padding: 20px;
+    font-family: 'Inter', sans-serif;
+    margin-top: 2%;
+}
+
+.img {
+    padding: 20px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    background-color: #E0BB76;
+}
+
+
+.book3 { 
+    padding: 40px;
+    margin-bottom: 0%;
+    margin-top: 2%;
+    font-size: 15px;
+    color: black;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    background-color:white;
+    margin-right: 0%;
+    margin-left: 0%;
+    border-style: solid;
+    border-color: #F9D388;
+}
+
+.book4 { 
+    padding: 40px;
+    margin-bottom: 0%;
+    font-size: 15px;
+    color: black;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    background-color:white;
+    margin-right: 0%;
+    margin-left: 0%;
+    border-style: solid;
+    border-color: #F9D388;
+}
+
+.banner { 
+    padding: 40px;
+    margin-bottom: 0%;
+    margin-top: 2%;
+    margin-right: 0%;
+    margin-left: 0%;
+    font-size: 20px;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    background-color: #E0BB76;
+}
+
+.banner2 { 
+    padding: 30px;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    margin-right: 0%;
+    margin-left: 0%;
+    font-size: 20px;
+    color: black;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-color: #F9D388;
+}
+
+.header{
+    background-color: #E0BB76;
+   color: white;
+   font-family: 'Inter', sans-serif;
+    text-align: center;
+    padding: 40px;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    font-size: 30px;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+
+.book5 {
+    padding: 40px;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    font-size: 30px;
+    color: black;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    background-color:white;
+    margin-right: 0%;
+    margin-left: 0%;
+    border-style: solid;
+    border-color: #F9D388;
+}
